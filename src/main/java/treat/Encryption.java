@@ -1,0 +1,5 @@
+package treat;
+
+class Encryption {
+	
+}
